@@ -1,6 +1,6 @@
 # Machine Learning Hands On Python and R 
 
-![the-future-of-machine-learning-is-in-finance](https://user-images.githubusercontent.com/29937202/42225404-25ff61e8-7efa-11e8-849e-046c410c801b.jpg)
+![the-future-of-machine-learning-is-in-finance](https://www.google.com/search?q=MachineLearning+image&tbm=isch&ved=2ahUKEwi6xuS4mIPqAhXGm0sFHS0ODnYQ2-cCegQIABAA&oq=MachineLearning+image&gs_lcp=CgNpbWcQA1DzL1jbSmDzS2gAcAB4AIABjAKIAdkWkgEEMi0xMpgBAKABAaoBC2d3cy13aXotaW1n&sclient=img&ei=7RTnXvqbL8a3rtoPrZy4sAc&bih=657&biw=1366&rlz=1C1CHBF_enIN880IN880#imgrc=e-E_PAWYMrJy9M)
 
 ### By:Kirill Eremenko
 ``` [Data Scientist & Forex Systems Expert]```
