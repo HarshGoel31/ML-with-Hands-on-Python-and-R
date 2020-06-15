@@ -7,9 +7,9 @@
  
 ### Content
  
-### Part 1:[Data Preprocessing](https://github.com/sam2702/ML-with-Hands-on-Python-and-R/edit/master/Data_Preprocessing)
+### Part 1:[Data Preprocessing](https://github.com/HarshGoel31/ML-with-Hands-on-Python-and-R/tree/master/Part%201%20-%20Data%20Preprocessing/Section%202%20--------------------%20Part%201%20-%20Data%20Preprocessing%20--------------------)
  
-### Part 2:[Regression](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Regression) 
+### Part 2:[Regression](https://github.com/HarshGoel31/ML-with-Hands-on-Python-and-R/tree/master/Part%202%20-%20Regression) 
 ```
 •Simple Linear Regression
 •Multiple Linear Regression
@@ -19,7 +19,7 @@
 •Random Forest Regression
 •Evaluating Regression Models Performance
 ```
-### Part 3:[Classification](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Classification)
+### Part 3:[Classification](https://github.com/HarshGoel31/ML-with-Hands-on-Python-and-R/tree/master/Part%203%20-%20Classification)
 ```
 •Logistic Regression
 •K-Nearest Neighbors (K-NN)
@@ -30,29 +30,29 @@
 •Random Forest Classification
 •Evaluating Classification Models Performance
 ```
-### Part 4:[Clustering](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Clustering)
+### Part 4:[Clustering](https://github.com/HarshGoel31/ML-with-Hands-on-Python-and-R/tree/master/Part%204%20-%20Clustering)
 ```
 •K-Means Clustering
 •Hierarchical Clustering
 ```
-### Part 5:[Association Rule Learning](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Association%20Rule%20Learning/Apriori_Python)
+### Part 5:[Association Rule Learning](https://github.com/HarshGoel31/ML-with-Hands-on-Python-and-R/tree/master/Part%205%20-%20Association%20Rule%20Learning)
 ```
 •Apriori
 •Eclat
 ```
-### Part 6:[Reinforcement Learning](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Reinforcement%20Learning)
+### Part 6:[Reinforcement Learning](https://github.com/HarshGoel31/ML-with-Hands-on-Python-and-R/tree/master/Part%206%20-%20Reinforcement%20Learning)
 ```
 •Upper Confidence Bound (UCB)
 •Thompson Sampling
 ```
-### Part 7:[Natural Language Processing](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Natural_Language_Processing)
+### Part 7:[Natural Language Processing](https://github.com/HarshGoel31/ML-with-Hands-on-Python-and-R/tree/master/Part%207%20-%20Natural%20Language%20Processing)
 
-### Part 8:[Deep Learning](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Deep%20Learning) 
+### Part 8:[Deep Learning](https://github.com/HarshGoel31/ML-with-Hands-on-Python-and-R/tree/master/Part%208%20-%20Deep%20Learning) 
 ```
 •Artificial Neural Networks
 •Convolutional Neural Networks
 ```
-### Part 9:[Dimensionality Reduction](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Dimensionality%20Reduction) 
+### Part 9:[Dimensionality Reduction](https://github.com/HarshGoel31/ML-with-Hands-on-Python-and-R/tree/master/Part%209%20-%20Dimensionality%20Reduction) 
 ```
 •Principal Component Analysis (PCA)
 •Linear Discriminant Analysis (LDA)
