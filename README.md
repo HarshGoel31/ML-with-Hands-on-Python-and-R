@@ -1,4 +1,4 @@
-# Udemy Machine Learning A-Z
+# Machine Learning Hands On Python and R 
 
 ![the-future-of-machine-learning-is-in-finance](https://user-images.githubusercontent.com/29937202/42225404-25ff61e8-7efa-11e8-849e-046c410c801b.jpg)
 
@@ -58,7 +58,7 @@
 •Linear Discriminant Analysis (LDA)
 •Kernel PCA
 ```
-### Part 10:[Model Selection & Boosting](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Model%20Selection%20%26%20Boosting) 
+### Part 10:[Model Selection & Boosting](https://github.com/HarshGoel31/ML-with-Hands-on-Python-and-R/tree/master/Part%2010%20-%20Model%20Selection%20_%20Boosting) 
 ```
 •Model Selection
 •XGBoost
